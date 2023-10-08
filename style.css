@@ -1,0 +1,50 @@
+body{
+  background-color:white;
+  display: flex; */
+  justify-items: flex: .container;
+  align-items: center;
+  height: 100vh; 
+}
+
+.h1{
+margin-right: 10%;
+  text-align: 00%;
+
+  height: 60%
+
+}
+
+.container{
+  height: 200%;
+  margin-inline-start;
+  display: flex;
+  align-items: center;
+
+}
+  
+.login{
+  width: 50px;
+  
+
+}
+
+
+.input{
+  width: 100%;
+
+}
+
+Section{
+margin: 50px;
+direction: 40px;
+justify-content:space-between
+}
+
+button{
+  padding: 4%;
+  border-radius: 25px;
+  width: 300px;
+  margin-top: 10px;
+  text-size-adjust: 15px;
+  color: black;
+}
